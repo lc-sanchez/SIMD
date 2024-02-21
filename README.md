@@ -14,6 +14,7 @@ Se implementarón 4 métodos para el tratamiento de imágenes en formato _".bmp"
 4. Blend (utlizando operaciones multimedia): recibe dos imágenes de igual tamaño y mediante el uso de código Assembler utilizando las operaciones multimedia correspondientes, da como resultado la combinación de ambas imagenes.
 
 Adicionalmente, se incluyó un método adicional: Filtro negativo.
+
 Finalmente, se mostrará en el [informe](https://drive.google.com/file/d/1SZGa9NghD9NF18Syh--4vRb1qNTIMFph/view?usp=sharing) una comparación entre los tiempos de ejecución del método "blend" para combinar las imágenes
 utilizando operaciones multimedia y sin utilizar operaciones multimedia, mediante el uso del lenguaje Assmebler.
 _Cabe aclarar que se eliminó de este repositorio las imagenes de resoluciones 6000x6309_. 
