@@ -8,10 +8,10 @@ Acá se agrega el [link](https://drive.google.com/file/d/1XnVqyaPgg4OyjGkm5yfF59
 
 ## Resumen
 Se implementarón 4 métodos para el tratamiento de imágenes en formato _".bmp"_, los cuales son:
-1. Aclarar: recibe una imagen y aclara su tonaldiad en base a un parámetros numérico.
-2. Median filter: una función que permite eliminar el "ruido/distorsión" de una imagen. El método recibe la imagen con interferencia, la recoge y corrige la distorsión original.
-3. Blend (sin operaciones multimedia): recibe dos imágenes de igual tamaño y mediante el uso de código Assembler sin utilizar operaciones multimedia, da como resultado la combinación de ambas imágenes.
-4. Blend (utlizando operaciones multimedia): recibe dos imágenes de igual tamaño y mediante el uso de código Assembler utilizando las operaciones multimedia correspondientes, da como resultado la combinación de ambas imagenes.
+1. **Aclarar:** recibe una imagen y aclara su tonaldiad en base a un parámetros numérico.
+2. **Median filter:** una función que permite eliminar el "ruido/distorsión" de una imagen. El método recibe la imagen con interferencia, la recoge y corrige la distorsión original.
+3. **Blend (sin operaciones multimedia):** recibe dos imágenes de igual tamaño y mediante el uso de código Assembler sin utilizar operaciones multimedia, da como resultado la combinación de ambas imágenes.
+4. **Blend (utlizando operaciones multimedia):** recibe dos imágenes de igual tamaño y mediante el uso de código Assembler utilizando las operaciones multimedia correspondientes, da como resultado la combinación de ambas imagenes.
 
 Adicionalmente, se incluyó un método adicional: Filtro negativo.
 
