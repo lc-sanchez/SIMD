@@ -17,5 +17,6 @@ Adicionalmente, se incluyó un método adicional: Filtro negativo.
 
 Finalmente, se mostrará en el [informe](https://drive.google.com/file/d/1SZGa9NghD9NF18Syh--4vRb1qNTIMFph/view?usp=sharing) una comparación entre los tiempos de ejecución del método "blend" para combinar las imágenes
 utilizando operaciones multimedia y sin utilizar operaciones multimedia, mediante el uso del lenguaje Assmebler.
+
 _Cabe aclarar que se eliminó de este repositorio las imagenes de resoluciones 6000x6309_. 
 Acá se agrega el [repositorio](https://gitlab.com/NahuelSauma/orgaii-tp2-grupo-3) original en el cual se trabajó durante el periodo de desarrollo.
